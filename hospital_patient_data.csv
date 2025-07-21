@@ -1,0 +1,501 @@
+patient_id,name,age,gender,department,diagnosis,admission_type,admission_date,discharge_date,outcome,attending_doctor,room_number,bill_amount
+1,Christopher Hall,82,Male,Cardiology,Cancer,Emergency,2023-11-06,2023-11-10,Recovered,Mark Burns,152,69286.45
+2,Terry Pugh,70,Male,Oncology,COVID-19,Emergency,2023-12-11,2023-12-12,Recovered,Nathan Hutchinson,219,53008.75
+3,Mr. Matthew Johnson,4,Male,Emergency,COVID-19,Emergency,2025-06-07,2025-06-15,Recovered,Kristen Green,514,87583.53
+4,Dennis Hooper,21,Female,Orthopedics,Cancer,Emergency,2025-02-01,2025-02-05,Referred,Amber Smith,272,14709.98
+5,Jennifer Lowery,49,Male,Orthopedics,Asthma,Referral,2025-07-04,2025-07-09,Under Treatment,Kimberly Jennings,473,48645.36
+6,Bianca Myers,16,Female,Cardiology,Cancer,Referral,2024-08-18,2024-08-28,Under Treatment,Denise Walker,285,59848.45
+7,Christopher Miller,9,Male,Emergency,Migraine,Routine,2024-03-01,2024-03-03,Under Treatment,Audrey Chambers,543,14595.14
+8,Marc Ortiz,36,Female,Emergency,Asthma,Emergency,2023-11-28,2023-12-04,Recovered,James Patterson,443,30362.89
+9,Mark Mack,88,Male,Oncology,Fracture,Referral,2024-09-28,2024-10-10,Recovered,Kyle Golden,336,41048.27
+10,Laura Chase,82,Male,Emergency,Asthma,Emergency,2025-05-24,2025-05-28,Under Treatment,Jennifer Bean,512,34968.04
+11,Brittany Moore DDS,35,Male,Neurology,Asthma,Emergency,2024-11-22,2024-12-03,Recovered,Cassandra Matthews,552,91882.02
+12,David White,59,Male,Orthopedics,Fracture,Emergency,2025-01-28,2025-02-09,Recovered,Allison Johnson,234,75966.31
+13,Michele Davis,55,Female,Orthopedics,Migraine,Emergency,2023-12-29,2024-01-07,Recovered,Richard Salazar,486,9476.06
+14,Amy Rogers,15,Male,Emergency,Fracture,Referral,2024-07-05,2024-07-12,Recovered,Spencer Watkins,297,41253.83
+15,Christina Lee,60,Female,Oncology,Hypertension,Referral,2023-09-11,2023-09-23,Recovered,Joseph Alexander,553,56012.18
+16,Dr. Lisa Zimmerman MD,35,Female,Cardiology,Cancer,Routine,2024-06-11,2024-06-14,Recovered,Natalie Murphy,588,73598.75
+17,Rebecca Martin,34,Male,Oncology,Diabetes,Referral,2024-05-01,2024-05-06,Under Treatment,Mrs. Sarah Villegas,359,62852.17
+18,Larry Green,20,Female,Neurology,Hypertension,Referral,2025-02-14,2025-02-20,Recovered,William Baxter,157,93264.37
+19,Marie Pitts,40,Male,Cardiology,Migraine,Referral,2024-07-08,2024-07-10,Recovered,Thomas Williams,348,82522.21
+20,Tina Peters,69,Male,Neurology,Flu,Referral,2025-02-26,2025-03-01,Recovered,Aaron Johnson,546,62626.42
+21,James Kidd,28,Male,Emergency,Cancer,Routine,2024-07-29,2024-08-09,Deceased,Tanner Lopez,324,90463.34
+22,Devin Lopez,58,Male,Neurology,Migraine,Emergency,2024-12-03,2024-12-09,Recovered,Sandra Smith,383,26860.9
+23,Paula Alexander,29,Male,Cardiology,Hypertension,Emergency,2023-12-28,2023-12-30,Referred,Jason Garcia,540,36390.71
+24,Elizabeth Wagner,66,Male,Orthopedics,Flu,Emergency,2024-02-21,2024-03-01,Recovered,Carrie Lopez,578,88826.39
+25,Jeremy Wong,74,Female,Neurology,Flu,Routine,2025-03-11,2025-03-15,Recovered,Tonya Robles,437,45949.86
+26,Jeffrey Martinez,55,Female,Pediatrics,Hypertension,Referral,2024-07-08,2024-07-19,Referred,Todd Powell,150,10758.2
+27,Mrs. Amber Harvey PhD,44,Male,Neurology,Migraine,Emergency,2023-08-09,2023-08-18,Recovered,Hunter Castaneda,316,22431.36
+28,Brenda Francis,60,Male,Cardiology,Flu,Referral,2023-12-05,2023-12-07,Recovered,Patricia Garner,376,84422.62
+29,Patrick Martin,12,Male,Neurology,COVID-19,Routine,2023-08-13,2023-08-21,Recovered,Dominique Myers,305,90732.07
+30,Jennifer Obrien,22,Female,Cardiology,COVID-19,Routine,2024-07-24,2024-08-08,Under Treatment,Victoria Russell,332,32098.68
+31,Brian Daniel,90,Female,Neurology,Migraine,Routine,2024-12-10,2024-12-14,Referred,James Martinez,396,74895.03
+32,Daniel Robbins,8,Female,Cardiology,Hypertension,Referral,2024-07-30,2024-08-07,Recovered,Brian Boyd,536,55456.98
+33,Angela Lee,8,Male,Neurology,Diabetes,Referral,2023-12-31,2024-01-02,Under Treatment,Madison Gonzalez DDS,220,43358.68
+34,Nicole Ayers,73,Male,Oncology,Hypertension,Referral,2023-09-16,2023-09-18,Recovered,Dakota Bowen,398,58696.56
+35,Heather Thomas,41,Female,Neurology,Asthma,Emergency,2023-12-08,2023-12-13,Recovered,Kristen Perkins,443,66322.57
+36,David Parker,59,Female,Cardiology,Hypertension,Routine,2023-09-12,2023-09-22,Referred,Theresa Dominguez,151,11959.77
+37,Daniel Hughes,28,Female,Neurology,Asthma,Emergency,2023-12-07,2023-12-22,Recovered,Jennifer Montgomery,245,19985.95
+38,Louis Gonzalez,70,Female,Oncology,Hypertension,Referral,2024-08-22,2024-09-05,Recovered,Chelsea Thompson,577,68021.93
+39,David Hess,18,Female,Cardiology,Diabetes,Referral,2023-10-24,2023-11-02,Recovered,Stephanie Carter,244,62458.83
+40,Jennifer Callahan,44,Male,Emergency,Cancer,Referral,2024-05-30,2024-06-07,Recovered,Victoria Fox,564,85379.85
+41,Renee Sanders,12,Female,Orthopedics,Hypertension,Emergency,2025-02-15,2025-02-21,Under Treatment,Frank Smith,426,98080.81
+42,Dawn Kidd,21,Female,Oncology,COVID-19,Referral,2024-03-30,2024-03-31,Recovered,Jody Haley,583,88895.11
+43,Pamela Fleming,20,Male,Orthopedics,Fracture,Routine,2024-08-20,2024-08-23,Recovered,Mrs. Erin Wiley,286,90403.24
+44,Joanne Jones,6,Female,Neurology,Migraine,Referral,2024-02-06,2024-02-08,Recovered,David Frederick,386,88992.8
+45,Dr. Katherine Wilson,53,Male,Neurology,Fracture,Emergency,2023-08-22,2023-09-06,Recovered,Natasha Delgado,191,74973.62
+46,Kelsey Berry,43,Female,Emergency,Migraine,Routine,2023-12-05,2023-12-08,Under Treatment,John Hill,155,41341.46
+47,Nicholas Johnson,5,Female,Neurology,Migraine,Routine,2024-08-29,2024-09-04,Recovered,Sharon Sharp,507,87775.69
+48,Sarah Franklin,29,Male,Emergency,Migraine,Routine,2024-08-28,2024-09-03,Recovered,Taylor Burch,135,96854.46
+49,Erica Moore,36,Female,Emergency,COVID-19,Referral,2023-11-14,2023-11-28,Recovered,James Moore,580,7622.05
+50,Jerry Alvarez,34,Male,Oncology,Cancer,Emergency,2024-07-21,2024-07-23,Recovered,Brad Gentry,276,74211.78
+51,John Thomas,41,Female,Oncology,Diabetes,Routine,2024-10-05,2024-10-20,Recovered,Gina Brown,230,9216.72
+52,Victoria Woods,56,Male,Oncology,Migraine,Routine,2024-09-28,2024-10-05,Recovered,Tracy Durham,440,92473.23
+53,Anna Owen,80,Female,Emergency,Diabetes,Referral,2024-01-26,2024-02-10,Recovered,Andrew Finley,258,68354.83
+54,Elizabeth Brooks DVM,42,Female,Emergency,Cancer,Referral,2023-08-20,2023-08-23,Recovered,Ricardo Jimenez,440,94334.55
+55,Teresa Valdez,87,Male,Oncology,Cancer,Routine,2024-06-29,2024-07-08,Under Treatment,Tiffany Sherman,255,32256.8
+56,Darren Bautista,56,Female,Pediatrics,Flu,Routine,2025-03-15,2025-03-26,Recovered,Clifford Hebert,342,80404.86
+57,Heather Steele,22,Male,Orthopedics,Asthma,Emergency,2025-05-21,2025-06-04,Referred,Marc Cox,220,68915.59
+58,Michelle Keith,29,Male,Neurology,Hypertension,Emergency,2025-07-04,2025-07-08,Referred,Peter Wright,412,85725.08
+59,Melissa Gamble,10,Female,Pediatrics,Migraine,Referral,2024-05-02,2024-05-14,Recovered,Amber Phillips,304,28178.52
+60,Victor Cruz,84,Male,Cardiology,COVID-19,Emergency,2023-09-19,2023-09-22,Under Treatment,Douglas Mckay,456,54205.99
+61,Brooke Garcia,7,Male,Cardiology,Flu,Emergency,2025-01-22,2025-02-04,Recovered,Kelly Kim,371,98849.78
+62,Catherine King,77,Female,Pediatrics,COVID-19,Referral,2024-11-30,2024-12-08,Under Treatment,Patrick Williams,480,86842.02
+63,Thomas Banks,58,Female,Neurology,Cancer,Referral,2025-01-17,2025-01-25,Deceased,Michael Willis,240,46787.9
+64,Rita Miller,37,Male,Orthopedics,Asthma,Routine,2024-11-04,2024-11-19,Recovered,Brian Douglas,170,19328.91
+65,Gabriela Warren,50,Male,Emergency,Migraine,Emergency,2025-06-21,2025-06-28,Recovered,Mr. Ryan Hayden,377,49262.81
+66,Rachel Miller,8,Male,Pediatrics,COVID-19,Referral,2024-12-31,2025-01-12,Recovered,Erica Robinson,550,77731.48
+67,Albert Anderson,49,Female,Cardiology,Asthma,Routine,2025-04-17,2025-04-30,Recovered,James Gilbert,556,95575.88
+68,Vicki Kim,54,Male,Pediatrics,Migraine,Routine,2023-09-18,2023-09-25,Recovered,Alan Bell,299,36932.31
+69,Amanda Carter,87,Female,Emergency,Fracture,Routine,2023-09-11,2023-09-26,Recovered,Craig Yoder,418,55741.74
+70,Gregory Cox,51,Male,Cardiology,COVID-19,Emergency,2025-02-09,2025-02-23,Recovered,Morgan Galloway,125,29714.85
+71,Elizabeth Wilson,42,Male,Pediatrics,Asthma,Routine,2024-05-29,2024-06-11,Under Treatment,Sandra Mcdaniel,242,76440.93
+72,James Smith DDS,54,Female,Cardiology,Flu,Emergency,2024-03-01,2024-03-13,Recovered,Kimberly Curry,587,38246.23
+73,Lynn Serrano,84,Male,Emergency,Hypertension,Emergency,2024-04-07,2024-04-11,Recovered,Jason Harrison,110,64026.89
+74,Patrick Murphy,31,Male,Pediatrics,Diabetes,Referral,2024-02-16,2024-02-20,Recovered,Andre Harris,231,77855.32
+75,Bradley Peterson,22,Male,Neurology,Cancer,Emergency,2024-05-16,2024-05-26,Recovered,Brenda Lopez,259,59700.69
+76,Sara Johnson,49,Female,Emergency,Migraine,Emergency,2024-07-22,2024-08-01,Under Treatment,James Lopez,421,28070.69
+77,Joseph Wong,90,Female,Emergency,Diabetes,Referral,2024-09-11,2024-09-24,Recovered,Daniel Kline,372,45695.91
+78,Roberto Rodriguez,48,Male,Oncology,Asthma,Emergency,2023-07-29,2023-08-12,Recovered,Kimberly Morse,350,15026.19
+79,Robert George,47,Female,Emergency,Fracture,Routine,2023-12-19,2023-12-22,Under Treatment,Mrs. Heather Mullins,594,66793.45
+80,Stacy Hudson,79,Female,Pediatrics,COVID-19,Referral,2023-10-28,2023-11-07,Recovered,Cody Davidson,536,28322.04
+81,James Cardenas,12,Female,Pediatrics,Migraine,Routine,2024-06-29,2024-07-09,Deceased,Jeffrey Ibarra,294,36957.68
+82,Clifford Lee,64,Female,Neurology,Flu,Emergency,2024-07-22,2024-07-28,Under Treatment,Rita Robinson,274,31567.56
+83,Christopher Nash,77,Female,Oncology,Hypertension,Referral,2024-03-24,2024-03-28,Recovered,Brandon Williams,468,43610.67
+84,Crystal Gonzalez,72,Male,Emergency,Flu,Referral,2024-02-18,2024-03-01,Recovered,Emily Richardson,505,6638.11
+85,Cheryl Mcclain,38,Male,Pediatrics,Migraine,Routine,2024-04-23,2024-05-04,Recovered,James Clark,342,57579.93
+86,Jessica Brooks,45,Female,Emergency,Asthma,Routine,2024-06-27,2024-07-09,Recovered,Drew Johnson,256,28883.35
+87,Michael Montgomery,16,Male,Orthopedics,Diabetes,Referral,2025-03-12,2025-03-21,Referred,Jennifer Valentine,453,22589.24
+88,Curtis Blevins,28,Female,Orthopedics,Cancer,Emergency,2025-05-31,2025-06-14,Recovered,Christina Evans,216,39283.7
+89,Claudia Reilly,39,Male,Emergency,Fracture,Routine,2025-02-27,2025-02-28,Referred,Paul Mahoney,383,32752.98
+90,Raymond Castro,17,Female,Cardiology,Hypertension,Referral,2025-03-12,2025-03-17,Recovered,Dr. Wanda Grant,325,37367.06
+91,Nathan Frazier,7,Female,Pediatrics,Diabetes,Emergency,2024-07-11,2024-07-18,Recovered,Alexander Chase,395,64797.34
+92,Lisa Edwards,7,Male,Neurology,Cancer,Emergency,2024-12-24,2024-12-28,Recovered,Tyler Sandoval,491,44536.53
+93,Allison Martinez,77,Male,Oncology,COVID-19,Routine,2025-01-03,2025-01-18,Recovered,Patrick Garcia,540,60909.89
+94,Tyler Warren,55,Female,Oncology,Hypertension,Referral,2024-09-01,2024-09-13,Recovered,Robert Jones,490,24739.85
+95,Jason Newton,28,Female,Emergency,Diabetes,Emergency,2024-09-06,2024-09-10,Recovered,Paul Schneider,138,19870.6
+96,James Daniel,53,Female,Emergency,Flu,Routine,2023-11-18,2023-11-19,Recovered,Paul Curtis,461,31858.25
+97,Walter Berry,59,Male,Emergency,Migraine,Routine,2023-12-01,2023-12-14,Under Treatment,Amanda Stone,401,67812.39
+98,Austin Pineda,26,Female,Cardiology,Migraine,Referral,2023-09-29,2023-10-02,Referred,Tammy Lin,523,18512.45
+99,Charlotte Howard,8,Male,Orthopedics,Cancer,Routine,2025-01-19,2025-01-21,Recovered,Ricky Young,255,71474.7
+100,Charlene Graves,35,Female,Pediatrics,Diabetes,Referral,2025-06-03,2025-06-04,Under Treatment,Stephanie Trujillo,476,35620.55
+101,Ana Henderson,33,Male,Cardiology,Migraine,Referral,2024-04-07,2024-04-21,Under Treatment,Becky Brown,400,95324.7
+102,Gina Clark,87,Female,Oncology,Hypertension,Emergency,2025-07-11,2025-07-19,Recovered,Alisha Cole,326,92026.91
+103,Vanessa Roberts,24,Female,Emergency,Flu,Emergency,2025-05-23,2025-05-31,Recovered,Jacob Gonzales,270,35500.53
+104,Brittney Price,14,Male,Orthopedics,COVID-19,Referral,2023-10-08,2023-10-16,Recovered,Brenda Castro,583,43042.96
+105,Shane James,71,Male,Pediatrics,Diabetes,Routine,2024-12-11,2024-12-16,Recovered,Sherry Sweeney,596,78392.05
+106,Joann Nicholson,66,Male,Emergency,Flu,Routine,2023-11-30,2023-12-01,Recovered,Luke Marshall,285,64150.22
+107,Nicole Perkins,64,Female,Cardiology,Migraine,Routine,2023-11-16,2023-11-25,Recovered,Emma Bailey,247,46621.03
+108,Keith Johnson,90,Female,Cardiology,Hypertension,Referral,2023-09-16,2023-09-26,Under Treatment,Emily Nelson,463,20045.93
+109,Mr. Justin Hall,71,Male,Oncology,COVID-19,Emergency,2024-03-06,2024-03-10,Referred,Randy Griffin,567,15778.81
+110,Brian Rodriguez,16,Male,Pediatrics,Cancer,Referral,2024-11-24,2024-12-06,Recovered,Adrienne Anderson,527,50837.46
+111,Shelley Barker,61,Male,Pediatrics,Fracture,Routine,2024-05-28,2024-06-01,Referred,Fernando Reeves,360,75897.79
+112,Michael Daniel,18,Male,Orthopedics,COVID-19,Routine,2024-05-08,2024-05-23,Under Treatment,Jennifer Ruiz,236,82952.2
+113,Mitchell Stone,37,Female,Oncology,Flu,Emergency,2024-01-03,2024-01-11,Recovered,Shawn Middleton,276,36581.8
+114,Peter Smith,70,Female,Pediatrics,Asthma,Emergency,2025-03-18,2025-03-30,Recovered,Mr. Darren Gordon,296,27188.43
+115,Megan Robinson,53,Male,Orthopedics,Flu,Referral,2024-12-04,2024-12-19,Under Treatment,Curtis Lutz,297,98899.33
+116,Michael Hill,84,Male,Pediatrics,Hypertension,Emergency,2023-10-16,2023-10-25,Referred,Elizabeth Martin,269,87621.53
+117,Molly Gross,57,Male,Oncology,Flu,Emergency,2024-05-10,2024-05-22,Recovered,David Snyder,545,67204.23
+118,Corey Murillo,20,Male,Pediatrics,Cancer,Routine,2025-04-13,2025-04-23,Under Treatment,Charles Valencia,432,12629.96
+119,Jennifer Wallace,43,Female,Orthopedics,Flu,Referral,2024-08-21,2024-08-22,Deceased,Zachary Ware,220,64960.3
+120,Deborah Walters,37,Male,Emergency,Diabetes,Routine,2023-09-13,2023-09-15,Under Treatment,Michele Reeves,460,87895.03
+121,Pamela Powell,57,Male,Emergency,Cancer,Emergency,2024-08-07,2024-08-08,Recovered,Brian Hall,128,32869.94
+122,Amy Griffin,48,Female,Neurology,Migraine,Referral,2025-03-28,2025-04-04,Recovered,Tammy Marshall,505,22105.4
+123,Gary Perkins,23,Male,Oncology,COVID-19,Referral,2024-02-10,2024-02-21,Recovered,Evan Hernandez,567,60399.93
+124,Melissa Rich,30,Female,Emergency,Cancer,Routine,2024-10-06,2024-10-11,Under Treatment,Daniel Gregory,560,81440.14
+125,Jocelyn Williams,37,Male,Cardiology,Flu,Routine,2023-12-04,2023-12-14,Recovered,Austin Ryan,592,45309.35
+126,John Mitchell,33,Female,Orthopedics,Migraine,Routine,2024-10-24,2024-11-07,Recovered,Haley Gonzales,221,41229.61
+127,Cheryl Booth,46,Female,Emergency,Cancer,Emergency,2023-08-16,2023-08-30,Under Treatment,Steven Trujillo,240,5769.31
+128,Jason Rose,88,Male,Oncology,Flu,Routine,2024-06-19,2024-07-02,Under Treatment,Andrew Rhodes,410,81183.54
+129,David Fisher,29,Male,Oncology,Cancer,Referral,2025-05-19,2025-06-01,Under Treatment,Shannon Watkins,437,69681.23
+130,Michael Gill,18,Male,Emergency,Hypertension,Routine,2024-09-23,2024-10-06,Recovered,Juan Mahoney,396,39661.82
+131,Jeffery Thomas,17,Male,Orthopedics,Asthma,Referral,2024-09-23,2024-09-30,Recovered,Karen Myers,167,79718.72
+132,Laurie Bryant,47,Female,Neurology,Cancer,Routine,2024-09-01,2024-09-14,Recovered,Dennis Mills,545,37177.95
+133,David Taylor,15,Female,Cardiology,Fracture,Emergency,2023-11-13,2023-11-27,Under Treatment,Andrew Reilly,445,98094.51
+134,Stephanie Hutchinson,72,Female,Cardiology,COVID-19,Emergency,2024-05-19,2024-05-24,Recovered,Fernando Mckenzie,332,40015.64
+135,Tracey Smith,87,Female,Oncology,COVID-19,Referral,2025-01-06,2025-01-12,Recovered,Eugene Rush,219,49790.3
+136,Christian Wilson,80,Female,Oncology,Migraine,Referral,2023-12-31,2024-01-02,Deceased,Lisa Ross,337,91391.83
+137,Miguel Stanley,39,Female,Cardiology,Fracture,Emergency,2024-06-20,2024-06-21,Recovered,Julie Kelly,352,16031.45
+138,Ralph Macias,31,Male,Pediatrics,Flu,Routine,2023-10-26,2023-11-06,Referred,Gerald Thompson,456,94867.54
+139,Michelle Dean,54,Male,Pediatrics,Diabetes,Routine,2023-12-23,2024-01-02,Recovered,James Johnson,587,31575.31
+140,Jessica Moore,89,Female,Neurology,Flu,Routine,2024-09-05,2024-09-09,Under Treatment,Maxwell Turner,150,98188.13
+141,Christie Bartlett,48,Female,Cardiology,COVID-19,Routine,2024-01-20,2024-01-24,Referred,Michael Hunter,585,85563.15
+142,Mr. George Smith,59,Male,Emergency,Migraine,Referral,2024-09-30,2024-10-11,Recovered,Andrew Ramos,110,9804.96
+143,Tyler Gutierrez,43,Male,Neurology,Migraine,Emergency,2023-11-27,2023-12-11,Under Treatment,Jill Benjamin,206,60706.39
+144,Amber Zimmerman,30,Female,Neurology,Hypertension,Routine,2025-06-19,2025-07-03,Referred,Emma Guerrero,166,56320.47
+145,Tracy Mcclain,23,Male,Emergency,Hypertension,Emergency,2025-02-26,2025-02-27,Recovered,Robert Baker,503,27603.5
+146,Andrea Sutton,42,Male,Neurology,Cancer,Emergency,2023-10-13,2023-10-16,Under Treatment,Michelle Warner,369,15796.68
+147,Daniel Phillips,9,Female,Pediatrics,Asthma,Referral,2024-07-01,2024-07-11,Recovered,Nicole Davis,357,26047.23
+148,Jamie Waters,79,Male,Emergency,Cancer,Routine,2025-03-27,2025-04-07,Referred,Wesley Meyers,131,99865.74
+149,Megan Lee,52,Female,Emergency,Diabetes,Routine,2025-02-28,2025-03-12,Referred,Jake Carter,137,90430.34
+150,Dalton Carpenter,42,Male,Cardiology,Fracture,Routine,2025-04-22,2025-05-02,Deceased,Jean Cummings,380,72654.52
+151,Dr. Laura Keller DVM,49,Female,Pediatrics,COVID-19,Emergency,2023-08-12,2023-08-25,Under Treatment,Christine Ferrell,536,67197.73
+152,Matthew Lee,71,Male,Pediatrics,Flu,Emergency,2025-05-06,2025-05-13,Recovered,Jacob Fleming,332,42879.37
+153,Zachary Fields,13,Female,Pediatrics,Asthma,Referral,2023-08-20,2023-08-25,Recovered,Angela Alvarez,178,70248.0
+154,Sandra Esparza,61,Male,Cardiology,Diabetes,Emergency,2024-09-17,2024-09-24,Recovered,Mallory Carr,478,40401.45
+155,Becky Ingram,17,Male,Oncology,Asthma,Referral,2024-10-12,2024-10-14,Recovered,Travis Rios,547,68207.35
+156,Benjamin Ramsey,55,Male,Orthopedics,Cancer,Routine,2025-01-17,2025-01-19,Recovered,Ashley Ingram,208,19699.37
+157,Eric Singh,62,Male,Cardiology,Asthma,Referral,2023-12-28,2024-01-03,Recovered,Molly Allen,242,59539.5
+158,Wayne Arias,55,Male,Oncology,Cancer,Emergency,2025-03-31,2025-04-03,Recovered,Nancy Pierce,490,34353.55
+159,Henry White,44,Female,Cardiology,Fracture,Emergency,2024-04-16,2024-04-26,Under Treatment,Emma Murphy,135,18478.09
+160,Daniel Graham,82,Male,Cardiology,Migraine,Routine,2023-08-13,2023-08-20,Recovered,Christina Woods,180,40155.04
+161,Jackson Reeves,42,Male,Cardiology,Fracture,Emergency,2024-11-02,2024-11-15,Deceased,David Patton,445,12750.25
+162,Jennifer Cruz,57,Female,Pediatrics,Flu,Routine,2024-07-15,2024-07-20,Recovered,Natasha Koch,362,15812.66
+163,John Henry,56,Male,Orthopedics,Flu,Referral,2024-08-30,2024-09-10,Recovered,John Allen,212,42550.02
+164,Nicole Miller,77,Male,Cardiology,Migraine,Routine,2023-11-11,2023-11-15,Under Treatment,Jacob Michael,491,29274.35
+165,Mr. Bryan Weaver DDS,42,Male,Cardiology,Flu,Referral,2025-02-22,2025-03-01,Recovered,Ryan Wu,294,55595.32
+166,Morgan Flores,30,Female,Cardiology,COVID-19,Referral,2025-05-10,2025-05-11,Recovered,Randall Schwartz,335,92510.43
+167,Reginald Davis Jr.,41,Female,Oncology,COVID-19,Referral,2025-05-09,2025-05-20,Recovered,Haley Carlson,158,43478.07
+168,Carla Coleman,42,Male,Oncology,Flu,Referral,2024-09-22,2024-10-07,Recovered,Erica Brown,323,85226.01
+169,Dr. Brittany Thomas,32,Female,Oncology,COVID-19,Referral,2024-07-23,2024-07-25,Recovered,Theresa Stevens,258,75851.46
+170,James Ray,29,Female,Neurology,Diabetes,Referral,2023-08-31,2023-09-11,Recovered,Justin Nelson,361,23420.85
+171,Chad Fernandez,45,Female,Emergency,Fracture,Emergency,2024-07-18,2024-07-20,Recovered,Sean Garcia,201,21482.41
+172,Renee Jones,20,Male,Neurology,Flu,Routine,2024-07-11,2024-07-24,Recovered,Anna Farmer,396,47646.0
+173,Bradley Robertson,73,Female,Emergency,Asthma,Emergency,2024-03-23,2024-03-31,Recovered,Ashley Medina,326,64981.59
+174,Megan Johnson,36,Male,Orthopedics,Diabetes,Routine,2024-02-10,2024-02-18,Recovered,Jonathan King,129,40030.07
+175,Justin Smith,37,Male,Emergency,Diabetes,Referral,2024-07-31,2024-08-10,Recovered,Emily Johnson,336,60131.29
+176,Brian Thomas,6,Female,Oncology,Migraine,Routine,2024-06-14,2024-06-24,Recovered,Kenneth Lopez,177,95983.62
+177,Thomas Cortez,58,Male,Orthopedics,Diabetes,Referral,2024-02-25,2024-03-07,Recovered,Andrew Haynes,226,72224.06
+178,Bridget Nunez,57,Male,Orthopedics,Asthma,Routine,2024-02-12,2024-02-19,Recovered,Tammy James,273,69495.28
+179,David Cantu III,7,Female,Cardiology,Asthma,Emergency,2024-12-07,2024-12-16,Under Treatment,Kevin Drake,245,28939.6
+180,John Short,85,Male,Orthopedics,Diabetes,Referral,2025-03-09,2025-03-20,Recovered,Mrs. Samantha Hart,279,34472.02
+181,Darryl Herrera,84,Female,Neurology,Diabetes,Routine,2025-03-28,2025-04-06,Recovered,Brittany Ortiz,505,36205.27
+182,Julie Lopez,17,Male,Emergency,COVID-19,Referral,2024-07-19,2024-07-25,Recovered,Lisa Perry,258,22124.98
+183,Ashley Burnett,28,Female,Pediatrics,Migraine,Emergency,2024-02-16,2024-02-19,Recovered,Jeffrey Carrillo,251,85220.7
+184,Lawrence Sullivan,13,Male,Emergency,Asthma,Referral,2024-03-04,2024-03-07,Recovered,Patrick Allen,178,20413.49
+185,Carla Lin MD,89,Male,Emergency,Flu,Emergency,2025-07-12,2025-07-19,Recovered,Jacqueline Mahoney,468,27565.37
+186,Melissa Drake,57,Female,Emergency,Flu,Emergency,2023-12-04,2023-12-13,Recovered,Richard Marshall,594,81819.27
+187,Jordan Fowler,61,Male,Orthopedics,Flu,Routine,2024-01-19,2024-02-01,Recovered,Kristen Herrera,295,52776.14
+188,Elizabeth Watson,54,Male,Neurology,Fracture,Routine,2023-08-22,2023-08-23,Deceased,Seth Rogers,547,40265.15
+189,Nicole Gomez,14,Male,Orthopedics,Diabetes,Emergency,2024-05-13,2024-05-18,Recovered,Justin Callahan,362,18998.12
+190,Christina Conner,56,Male,Neurology,Flu,Routine,2024-05-21,2024-06-05,Recovered,Emily Fuller,127,42663.13
+191,Sierra Robinson,48,Male,Pediatrics,Diabetes,Routine,2023-07-16,2023-07-20,Recovered,John Cole,576,14412.9
+192,Andrew Roberts PhD,84,Female,Neurology,Fracture,Emergency,2025-04-16,2025-04-21,Referred,Stephanie Harding,341,71126.84
+193,Mrs. Amanda Lee,18,Female,Pediatrics,Hypertension,Emergency,2024-08-17,2024-08-18,Recovered,Samantha Collins,527,19204.36
+194,Tom Morris,78,Female,Cardiology,Cancer,Emergency,2023-11-18,2023-11-23,Recovered,Sean Andrews MD,222,44883.43
+195,Amy White,80,Female,Cardiology,Diabetes,Routine,2024-01-27,2024-02-06,Recovered,David Evans,423,53960.69
+196,Jonathan Parrish,31,Male,Orthopedics,COVID-19,Emergency,2024-01-29,2024-02-08,Recovered,Amber Johnson,392,44573.92
+197,Angela Hoover,86,Male,Oncology,Asthma,Emergency,2025-05-03,2025-05-12,Recovered,Joshua Mann,502,98891.49
+198,Lisa Ferguson,71,Male,Pediatrics,Flu,Emergency,2025-06-03,2025-06-14,Recovered,Elizabeth Lam MD,291,29096.77
+199,Ashley James,3,Female,Cardiology,Asthma,Emergency,2023-12-27,2024-01-08,Under Treatment,Thomas Lopez,153,78292.63
+200,Andrew Harris,43,Male,Cardiology,Asthma,Referral,2023-12-15,2023-12-21,Under Treatment,Aaron Brown,189,83886.45
+201,Lindsey Williams,88,Female,Emergency,Flu,Referral,2024-11-17,2024-11-20,Under Treatment,Katherine Hatfield MD,132,73024.28
+202,Jamie Parker,59,Male,Orthopedics,Migraine,Emergency,2023-07-17,2023-07-30,Recovered,Edward Hughes,121,34981.6
+203,Amanda Vasquez,40,Female,Oncology,Flu,Routine,2024-07-28,2024-07-29,Under Treatment,Melvin Myers,197,32180.54
+204,Timothy Wright,7,Female,Orthopedics,Diabetes,Routine,2024-01-18,2024-01-25,Under Treatment,James Ortiz,480,46774.98
+205,Paul Porter,50,Female,Neurology,Flu,Referral,2025-06-28,2025-07-06,Recovered,Michael Hodges,508,54331.21
+206,Dustin Perkins,11,Female,Cardiology,COVID-19,Referral,2024-11-15,2024-11-29,Recovered,Mckenzie Allen,250,35515.09
+207,Scott Thomas,11,Female,Emergency,Cancer,Routine,2025-03-07,2025-03-15,Deceased,Joshua Vincent,318,20831.25
+208,Joseph Osborne,57,Female,Pediatrics,Hypertension,Referral,2024-11-11,2024-11-25,Referred,Craig Evans,414,99824.31
+209,Rebecca Mullen,36,Male,Cardiology,COVID-19,Routine,2024-12-09,2024-12-18,Under Treatment,Frank Taylor,447,20198.74
+210,Alicia Green,4,Male,Oncology,Flu,Emergency,2024-01-17,2024-01-20,Recovered,John Holloway,498,66290.47
+211,Lisa Williams,47,Female,Oncology,Hypertension,Referral,2023-11-27,2023-11-30,Under Treatment,Melissa Webb,585,40241.63
+212,Dustin Kennedy,57,Male,Oncology,Fracture,Referral,2025-01-26,2025-02-01,Recovered,Joseph Simmons,432,31475.53
+213,Rebecca Martinez,15,Male,Emergency,Fracture,Routine,2024-10-23,2024-11-01,Recovered,Stefanie Jackson,387,16187.29
+214,Cheryl Lopez,34,Female,Neurology,Cancer,Referral,2025-01-19,2025-02-03,Referred,Aaron Boyd,202,16650.56
+215,Leah Smith,10,Female,Neurology,Flu,Emergency,2024-05-18,2024-05-31,Under Treatment,Omar Lyons,532,98724.59
+216,Shane Jones,86,Female,Emergency,Diabetes,Referral,2024-08-31,2024-09-09,Recovered,Brittany Horn,253,85879.39
+217,Charles Nelson,90,Male,Orthopedics,Migraine,Emergency,2025-07-11,2025-07-15,Under Treatment,Diana Cooper,221,80085.44
+218,Kathryn Mayo,4,Female,Oncology,Asthma,Routine,2025-02-23,2025-03-08,Referred,Anthony Alexander,166,63135.09
+219,Julia Duran,12,Male,Orthopedics,COVID-19,Referral,2024-10-31,2024-11-12,Recovered,Vincent Moore,310,78070.63
+220,Amanda Chan,74,Male,Neurology,Asthma,Referral,2023-09-15,2023-09-17,Recovered,Stephanie Huber,448,54149.2
+221,Beverly Walters,17,Male,Neurology,COVID-19,Referral,2023-12-14,2023-12-29,Under Treatment,Oscar Hopkins,525,16795.31
+222,Gregory Jenkins,20,Female,Neurology,Fracture,Routine,2024-07-20,2024-08-04,Under Treatment,Rachel Price,277,95010.9
+223,Jerry Potter,67,Female,Cardiology,Cancer,Emergency,2025-02-18,2025-03-01,Referred,Barbara Smith,240,16891.18
+224,Jason Lewis,39,Male,Oncology,Fracture,Referral,2025-04-23,2025-05-03,Recovered,Theresa Foster,437,64325.52
+225,Robert White,78,Female,Oncology,Hypertension,Emergency,2023-11-12,2023-11-14,Recovered,Jennifer Bailey,428,78247.13
+226,Summer Rivera,34,Male,Oncology,COVID-19,Referral,2024-04-22,2024-05-03,Recovered,Diane Larson,555,64580.58
+227,Joseph Stanton,38,Female,Pediatrics,Migraine,Referral,2024-10-03,2024-10-10,Recovered,David Fisher,137,70418.29
+228,John Willis,21,Female,Pediatrics,Flu,Routine,2025-02-15,2025-02-19,Recovered,Paula Leonard,173,34695.34
+229,Heather Moore,41,Female,Pediatrics,Fracture,Routine,2025-04-10,2025-04-19,Recovered,Kari Stewart,263,27965.1
+230,Brittney Jenkins,16,Female,Pediatrics,Migraine,Emergency,2024-07-25,2024-07-27,Recovered,Kelly Fletcher,584,41494.23
+231,Travis Ross,79,Female,Neurology,Fracture,Routine,2025-05-20,2025-06-04,Recovered,William Peters,260,23034.24
+232,Eric Jensen,21,Female,Oncology,Flu,Routine,2024-03-02,2024-03-17,Recovered,Michael Harrington,111,13554.66
+233,Anthony Hansen,51,Female,Neurology,Migraine,Referral,2025-03-05,2025-03-11,Recovered,Dr. Charles Morales,244,52014.95
+234,Jonathan Russell,84,Female,Orthopedics,Hypertension,Emergency,2025-03-02,2025-03-09,Recovered,Lisa Miller,235,74113.27
+235,Christy Herring,52,Female,Cardiology,COVID-19,Emergency,2023-07-31,2023-08-10,Recovered,Charles Burke,285,57556.18
+236,Paul Williams,10,Female,Oncology,Flu,Referral,2023-07-21,2023-07-26,Under Treatment,John Hill,419,69637.87
+237,Joseph Higgins DVM,16,Male,Cardiology,COVID-19,Routine,2025-03-21,2025-04-03,Referred,Kelly Green,385,94200.11
+238,Thomas Vargas,19,Male,Oncology,COVID-19,Referral,2023-09-01,2023-09-02,Recovered,Keith Bowen,170,72791.23
+239,Michael Harris,61,Female,Neurology,Fracture,Routine,2024-03-09,2024-03-24,Deceased,Emily Carr,183,42330.69
+240,Brandon King,79,Female,Oncology,Asthma,Referral,2023-10-22,2023-11-05,Recovered,Penny Thomas,350,72330.28
+241,Kelly Matthews,39,Female,Cardiology,Asthma,Routine,2024-01-23,2024-02-03,Recovered,Martin Faulkner,313,60451.7
+242,Jennifer Navarro,89,Male,Oncology,Flu,Routine,2025-01-21,2025-02-01,Under Treatment,Teresa Hale,497,59955.06
+243,Juan Edwards,30,Male,Oncology,Flu,Emergency,2025-06-02,2025-06-11,Deceased,Meghan Murphy,417,78587.58
+244,Tracy Spears,49,Male,Emergency,Migraine,Emergency,2024-03-08,2024-03-18,Referred,Brittany Cameron,156,23124.51
+245,Michael Faulkner,57,Female,Pediatrics,Fracture,Routine,2024-01-15,2024-01-27,Recovered,Steven Barber,356,78622.37
+246,Craig Meza,61,Male,Emergency,Fracture,Referral,2025-03-26,2025-03-30,Recovered,Charles Salazar,439,50445.24
+247,Kristopher Benitez,49,Female,Neurology,Flu,Referral,2023-09-27,2023-10-03,Recovered,Nicole Clark,446,78339.03
+248,Thomas Singh,88,Female,Oncology,Flu,Emergency,2023-12-22,2023-12-26,Recovered,Courtney Anderson,252,26362.37
+249,Gwendolyn Duffy,39,Female,Emergency,Migraine,Referral,2023-08-10,2023-08-22,Recovered,Marvin Reyes,345,38136.3
+250,Carla Roberson,36,Female,Cardiology,COVID-19,Routine,2024-07-03,2024-07-17,Recovered,Carolyn Nguyen,495,81438.5
+251,Tanya Williams,38,Male,Orthopedics,Diabetes,Routine,2025-06-20,2025-07-05,Recovered,Peter Meyer,231,75997.16
+252,Nicholas Warren,28,Male,Oncology,Cancer,Referral,2025-04-03,2025-04-15,Recovered,Jessica Moon,155,63489.32
+253,Diane Fields,76,Male,Neurology,Hypertension,Referral,2024-08-31,2024-09-15,Recovered,Robert French,426,27119.47
+254,Joseph Santos,13,Female,Orthopedics,Flu,Emergency,2023-10-26,2023-11-06,Under Treatment,Bryan Navarro,102,96629.28
+255,Kristen Cannon,21,Female,Emergency,Flu,Routine,2023-10-18,2023-10-29,Recovered,James Herrera,593,32288.28
+256,Mary Freeman,37,Male,Cardiology,Migraine,Referral,2023-12-20,2024-01-01,Under Treatment,Sheila Curry,579,8543.33
+257,Stacey Sanchez,23,Female,Neurology,Hypertension,Routine,2024-09-26,2024-10-09,Recovered,Sharon Smith,579,76155.3
+258,Richard Ortiz,38,Male,Cardiology,Cancer,Referral,2024-03-07,2024-03-17,Recovered,Brian Mcbride,271,32033.36
+259,Curtis Turner,83,Female,Neurology,Flu,Routine,2025-05-02,2025-05-06,Under Treatment,Alexandra Freeman,269,20436.95
+260,Robert Bennett,59,Female,Emergency,Fracture,Emergency,2024-12-25,2025-01-06,Recovered,Tonya Armstrong,251,58939.22
+261,Michelle Ray,25,Male,Oncology,COVID-19,Routine,2023-12-13,2023-12-22,Recovered,Daniel Smith,305,68579.31
+262,Donna Kim,24,Male,Pediatrics,Asthma,Emergency,2024-07-15,2024-07-16,Recovered,Michael Cain,220,47439.87
+263,Gregory Smith,35,Female,Orthopedics,Hypertension,Routine,2025-05-09,2025-05-20,Recovered,Joseph Small,220,10901.81
+264,Charlotte Malone,16,Female,Orthopedics,Fracture,Routine,2023-07-26,2023-08-06,Recovered,Edward Acevedo,558,89341.13
+265,Andrew Carter,40,Male,Emergency,Cancer,Routine,2024-08-26,2024-09-05,Recovered,Anthony Hinton DVM,590,17689.03
+266,James Garcia,20,Female,Emergency,Asthma,Routine,2024-01-01,2024-01-13,Recovered,Amanda Gutierrez,341,76948.3
+267,Kathryn Robinson,86,Male,Neurology,Diabetes,Referral,2023-10-11,2023-10-19,Recovered,Jacob Blackwell,285,12419.76
+268,Ricky Reyes,73,Male,Cardiology,Migraine,Referral,2024-07-05,2024-07-14,Recovered,Billy Adams,267,86176.17
+269,Shannon Bruce,57,Male,Emergency,Migraine,Referral,2024-02-12,2024-02-22,Recovered,Robin Snow,560,53485.66
+270,Kimberly Montgomery,8,Female,Neurology,COVID-19,Routine,2024-02-21,2024-03-02,Recovered,Paul Perkins,336,68912.93
+271,Carolyn Harper,40,Male,Pediatrics,Cancer,Emergency,2023-12-15,2023-12-27,Recovered,Raymond Jimenez,137,9302.53
+272,Douglas Key,45,Male,Oncology,Hypertension,Emergency,2024-08-01,2024-08-16,Recovered,Steven Hall,246,43842.36
+273,Melissa Smith,18,Female,Orthopedics,COVID-19,Routine,2024-10-29,2024-11-12,Referred,Matthew Calderon,293,40686.33
+274,Zoe Lowe,88,Male,Emergency,Asthma,Emergency,2024-08-08,2024-08-11,Referred,Jennifer Wilson,301,55240.04
+275,Melissa Lane,29,Male,Cardiology,Cancer,Routine,2025-04-10,2025-04-21,Under Treatment,Jessica Collins,317,55533.69
+276,Michelle Gonzales,30,Male,Pediatrics,Asthma,Emergency,2024-06-11,2024-06-16,Recovered,Stephanie Keith,548,73877.27
+277,David Owen,15,Male,Emergency,COVID-19,Referral,2025-06-05,2025-06-18,Referred,Derrick Roy,555,6486.35
+278,Joseph Morris,27,Male,Cardiology,Hypertension,Routine,2023-10-01,2023-10-11,Under Treatment,Joan Powers,546,9624.25
+279,Thomas Green,6,Female,Pediatrics,Migraine,Referral,2025-04-20,2025-04-24,Under Treatment,Colin Burch,497,10362.18
+280,Martha Brandt,65,Female,Neurology,Asthma,Referral,2023-09-07,2023-09-17,Under Treatment,Casey Miller,519,35463.19
+281,David Anderson,39,Male,Emergency,Migraine,Routine,2025-04-05,2025-04-10,Recovered,Mark Pugh,385,95109.42
+282,Mr. Jose Ross,23,Female,Oncology,Flu,Emergency,2024-02-08,2024-02-14,Referred,Dr. Denise Silva,443,41209.69
+283,Frederick Mason,68,Female,Emergency,COVID-19,Routine,2024-02-11,2024-02-14,Recovered,Shane Wells,194,76669.53
+284,William Wade,61,Male,Neurology,Cancer,Referral,2024-08-31,2024-09-03,Under Treatment,Cody Logan,568,10474.27
+285,Mr. Derrick Mccoy,53,Female,Oncology,Fracture,Routine,2024-06-26,2024-06-30,Recovered,Kayla Wallace,269,66437.06
+286,Alexander Faulkner,58,Female,Cardiology,Migraine,Emergency,2024-07-25,2024-07-30,Recovered,Cheryl Ramirez,409,62277.59
+287,Jennifer Herrera,10,Male,Oncology,Migraine,Routine,2024-10-14,2024-10-18,Under Treatment,Derek Bonilla,270,33802.86
+288,Patricia Jefferson,2,Male,Neurology,Diabetes,Referral,2025-04-10,2025-04-23,Recovered,Elizabeth Murray,224,71084.5
+289,Sherry Hoffman,27,Female,Neurology,Asthma,Routine,2024-10-15,2024-10-22,Recovered,Martin Wheeler,432,39129.66
+290,Alicia Keith,34,Female,Oncology,Flu,Routine,2023-07-17,2023-07-19,Under Treatment,Gary Riggs,469,49601.59
+291,Megan Jenkins,41,Male,Orthopedics,Asthma,Routine,2023-09-01,2023-09-02,Recovered,Kimberly Williams,213,75418.98
+292,Julia Bates,3,Female,Oncology,COVID-19,Routine,2025-02-20,2025-02-23,Recovered,Sean Rodriguez,217,41084.78
+293,Christy Garcia,32,Female,Oncology,Asthma,Routine,2024-06-30,2024-07-13,Under Treatment,John Nelson,594,73738.0
+294,Jennifer Taylor,63,Female,Neurology,Asthma,Emergency,2024-08-02,2024-08-05,Under Treatment,Brandi Best,350,22484.54
+295,Cynthia Sanchez,70,Male,Oncology,Hypertension,Emergency,2025-06-26,2025-07-10,Under Treatment,Heather Brown MD,491,5606.46
+296,Kevin Brooks,18,Male,Cardiology,Fracture,Emergency,2025-07-06,2025-07-10,Recovered,Ashley Carlson,291,10742.76
+297,Tracy Sanchez,82,Female,Emergency,Flu,Emergency,2023-11-05,2023-11-06,Recovered,David Morrison,310,6125.84
+298,Gary May,68,Female,Oncology,Cancer,Emergency,2023-12-18,2023-12-27,Under Treatment,Carl Smith,445,45904.45
+299,Kristina Sparks,23,Male,Cardiology,Fracture,Emergency,2023-07-22,2023-07-26,Deceased,Nicole Parker,229,82445.37
+300,Joel Mendez,35,Female,Cardiology,Asthma,Routine,2025-01-19,2025-01-27,Recovered,Angela Robbins,456,26456.44
+301,Laura Simmons,88,Male,Emergency,Hypertension,Emergency,2024-09-30,2024-10-07,Recovered,Thomas Coleman,382,50220.48
+302,Patty Murphy,82,Male,Emergency,Fracture,Emergency,2025-04-21,2025-04-29,Under Treatment,Daniel Schwartz,430,79515.75
+303,Vanessa Ruiz,73,Male,Oncology,Hypertension,Emergency,2025-05-12,2025-05-16,Referred,Brenda Barton,454,89317.66
+304,Kathy Saunders,61,Female,Cardiology,Diabetes,Referral,2025-05-18,2025-06-02,Recovered,Mark Williams,378,58533.44
+305,Eric Andrews,5,Male,Orthopedics,Hypertension,Emergency,2025-03-16,2025-03-26,Recovered,David Yoder,520,72707.58
+306,Melissa Henson,51,Male,Orthopedics,Fracture,Referral,2025-06-13,2025-06-17,Recovered,Danielle Smith,534,41969.88
+307,Sabrina Trujillo,70,Female,Pediatrics,Fracture,Referral,2024-10-28,2024-11-09,Recovered,Erika Brown,481,97560.72
+308,Jordan Kelly,7,Male,Pediatrics,Migraine,Emergency,2024-10-20,2024-10-26,Deceased,Jake Williams,414,95711.55
+309,Amy Powell,51,Female,Cardiology,Cancer,Routine,2024-06-12,2024-06-20,Recovered,Melissa Barber,383,94408.57
+310,Jane Orr,56,Male,Emergency,COVID-19,Emergency,2025-06-15,2025-06-28,Deceased,Tara Martin,508,28412.73
+311,Taylor Rios,10,Male,Orthopedics,Fracture,Routine,2025-02-13,2025-02-25,Under Treatment,Malik Greene,178,75267.25
+312,Holly Cox,41,Female,Cardiology,Diabetes,Emergency,2024-05-05,2024-05-10,Recovered,Brittany Perry,489,30627.81
+313,Christopher Miller,17,Male,Neurology,COVID-19,Routine,2024-09-27,2024-10-06,Recovered,Belinda Perez,308,14812.83
+314,Russell Melton,12,Female,Oncology,Diabetes,Referral,2024-04-26,2024-05-06,Under Treatment,Howard Walker,542,41597.6
+315,Jonathan Lee,38,Female,Pediatrics,Diabetes,Referral,2024-09-10,2024-09-25,Recovered,Gerald Bolton,224,59336.24
+316,John Fisher,22,Female,Neurology,Fracture,Routine,2025-05-18,2025-05-23,Recovered,Jerry Ward,174,11010.38
+317,Sheri Romero,56,Female,Pediatrics,Cancer,Routine,2023-08-14,2023-08-27,Recovered,Patricia Mullen,228,94701.12
+318,Desiree Young,81,Female,Oncology,Migraine,Routine,2024-11-02,2024-11-04,Recovered,Stacy Atkinson,103,95138.23
+319,Eduardo Torres,43,Female,Orthopedics,Flu,Routine,2025-01-09,2025-01-16,Under Treatment,Autumn Jacobs,540,66848.5
+320,Susan Rosales,77,Male,Orthopedics,Asthma,Referral,2023-09-21,2023-10-03,Recovered,Antonio Phillips,260,21875.54
+321,Roger Williams,51,Female,Orthopedics,Flu,Referral,2023-10-16,2023-10-29,Recovered,Shelby Harrell,292,31628.51
+322,Wendy Haney,51,Female,Cardiology,Migraine,Referral,2023-07-16,2023-07-25,Recovered,Justin Rush,493,57259.42
+323,Dawn Lawson,60,Male,Pediatrics,Cancer,Referral,2024-12-28,2024-12-30,Under Treatment,Jonathan Tapia,507,80529.33
+324,Kimberly Bailey,87,Female,Neurology,Cancer,Emergency,2024-11-16,2024-11-21,Under Treatment,Savannah Reynolds,466,45197.16
+325,Justin Sanders,49,Male,Pediatrics,Flu,Referral,2025-01-31,2025-02-07,Recovered,Erin Thomas,572,92437.26
+326,Stacey Riggs,89,Female,Oncology,Hypertension,Routine,2025-01-02,2025-01-14,Under Treatment,Isaac Parker,374,61412.89
+327,Judith Carter,11,Male,Neurology,Asthma,Emergency,2024-07-17,2024-07-28,Deceased,Regina Ponce,388,98442.78
+328,William Baker,87,Female,Orthopedics,COVID-19,Emergency,2023-11-03,2023-11-04,Recovered,Donald Cain,213,53514.24
+329,Timothy Hubbard,67,Male,Pediatrics,Asthma,Routine,2025-02-06,2025-02-14,Under Treatment,Sierra Mcclure,401,70591.54
+330,Jennifer Hawkins,20,Female,Cardiology,Flu,Emergency,2024-09-05,2024-09-10,Recovered,James Hudson,592,13156.21
+331,Lisa Padilla,19,Female,Orthopedics,Asthma,Routine,2024-10-29,2024-11-11,Recovered,April Taylor,347,38088.53
+332,Timothy Walton,13,Female,Emergency,Flu,Routine,2024-11-11,2024-11-13,Recovered,Jordan Ferguson,514,72524.0
+333,John Ellis,3,Female,Emergency,Diabetes,Referral,2024-09-16,2024-09-29,Recovered,Laura Yang,479,28171.73
+334,Adam Davidson,23,Male,Orthopedics,COVID-19,Routine,2024-03-30,2024-04-03,Under Treatment,Michelle Gill,422,22522.92
+335,Shelia Moore,82,Female,Pediatrics,Hypertension,Referral,2023-09-06,2023-09-16,Under Treatment,Martha Foster,330,61259.3
+336,Lauren Anderson,50,Male,Emergency,Migraine,Emergency,2024-11-23,2024-11-28,Under Treatment,Ricky Barnes,514,80620.76
+337,Brian Jones,74,Male,Oncology,Fracture,Routine,2023-08-09,2023-08-15,Recovered,Tammy Joseph,158,29923.57
+338,Matthew Simmons,63,Female,Oncology,COVID-19,Referral,2025-06-08,2025-06-15,Recovered,Mr. Caleb Sanders Jr.,278,38438.57
+339,Darryl Murray,59,Male,Emergency,Cancer,Referral,2024-04-15,2024-04-25,Recovered,Emily Johnson,168,34752.65
+340,Deborah Davis,31,Female,Cardiology,Fracture,Routine,2023-09-08,2023-09-20,Recovered,Bonnie Turner,298,44732.72
+341,Brian Morgan,18,Female,Pediatrics,Fracture,Routine,2023-11-19,2023-11-30,Recovered,Thomas English,570,66299.71
+342,Andrew Smith,23,Male,Pediatrics,Cancer,Emergency,2024-01-21,2024-01-24,Recovered,Jennifer Rivera,330,63843.95
+343,Sarah Johnson,46,Male,Pediatrics,Fracture,Emergency,2024-02-27,2024-03-12,Recovered,Morgan Morrison,387,53016.61
+344,John Phillips,64,Female,Emergency,Flu,Routine,2024-09-16,2024-09-28,Under Treatment,Robert Harrison,350,20889.08
+345,Tammy Freeman,73,Male,Neurology,Cancer,Emergency,2023-12-26,2023-12-31,Recovered,Kathy Wood,247,20979.85
+346,Martha Turner,59,Female,Oncology,Diabetes,Referral,2024-10-18,2024-10-20,Recovered,Sarah Harrison,378,83211.87
+347,Julie Garcia,47,Male,Emergency,Flu,Referral,2023-08-17,2023-08-21,Referred,Sherry Shah,152,74918.93
+348,Lori Reynolds,84,Male,Orthopedics,Hypertension,Routine,2023-08-07,2023-08-12,Recovered,Lauren Cardenas,518,13263.39
+349,Jenna Griffin,16,Male,Neurology,Asthma,Referral,2024-03-23,2024-04-02,Deceased,Tim Kelley,184,63534.36
+350,Sharon Alexander,27,Male,Cardiology,Asthma,Referral,2024-09-29,2024-10-04,Recovered,Haley Anderson,186,35747.09
+351,Donald Kirk,38,Female,Oncology,Cancer,Referral,2025-01-28,2025-02-12,Under Treatment,Paula Vincent,148,17880.95
+352,Michael Brown,53,Male,Orthopedics,Fracture,Referral,2025-01-04,2025-01-18,Recovered,Gabriel Logan,174,72582.51
+353,Kurt Short,32,Female,Pediatrics,Fracture,Referral,2024-08-12,2024-08-23,Recovered,Kaitlin Moore,312,40641.37
+354,Debra Reynolds,10,Male,Pediatrics,Cancer,Referral,2024-08-22,2024-09-06,Under Treatment,Bobby Warner,332,95274.14
+355,Mark Robinson,42,Male,Emergency,Diabetes,Referral,2025-03-15,2025-03-23,Deceased,Charles Estrada,457,39031.16
+356,Keith Gray,9,Female,Neurology,COVID-19,Emergency,2024-11-06,2024-11-14,Recovered,Cindy Duffy,524,31941.34
+357,Sean Cabrera,71,Male,Oncology,Flu,Routine,2025-01-10,2025-01-25,Under Treatment,Bryan Atkinson,124,9364.58
+358,John Gutierrez,81,Female,Cardiology,Diabetes,Emergency,2025-01-04,2025-01-12,Recovered,Chelsea Irwin,590,45640.93
+359,Jennifer Cannon,89,Male,Emergency,Cancer,Emergency,2025-07-04,2025-07-18,Referred,Nancy Rodriguez,240,13867.3
+360,Emma Walker,47,Female,Cardiology,Asthma,Referral,2024-03-28,2024-04-12,Deceased,Melanie Young,126,42652.45
+361,Matthew Hooper,40,Male,Pediatrics,Diabetes,Referral,2025-07-08,2025-07-10,Recovered,Kevin Pope,344,12404.18
+362,Samuel Key,76,Male,Oncology,Flu,Emergency,2023-11-03,2023-11-04,Under Treatment,Wesley Richardson,518,16456.41
+363,Brian Hicks,55,Male,Pediatrics,Diabetes,Emergency,2025-03-28,2025-04-04,Recovered,James Mercado,512,14730.58
+364,Alice Wagner,41,Female,Orthopedics,Fracture,Routine,2025-03-30,2025-04-12,Under Treatment,Shannon Cook,547,17648.89
+365,Joseph Lloyd,87,Male,Cardiology,Hypertension,Referral,2024-07-05,2024-07-16,Recovered,Edwin Burgess,279,73631.04
+366,Christopher Marshall,81,Male,Pediatrics,Flu,Emergency,2023-09-30,2023-10-02,Under Treatment,Melissa Curry,171,76482.34
+367,Rodney Maddox,76,Female,Orthopedics,COVID-19,Routine,2024-05-10,2024-05-23,Recovered,Jeffery Thornton,241,66238.95
+368,Megan Campbell,32,Female,Emergency,Hypertension,Referral,2023-11-25,2023-12-10,Recovered,Lawrence Lewis,365,62658.05
+369,Chelsey Reeves,25,Female,Orthopedics,Hypertension,Emergency,2023-10-21,2023-10-29,Recovered,Jessica Hudson,223,52460.34
+370,Vanessa Miranda,77,Male,Oncology,Hypertension,Routine,2024-06-26,2024-07-11,Recovered,Melissa Chen,298,86777.33
+371,Hannah Blankenship,73,Female,Orthopedics,Fracture,Routine,2025-06-07,2025-06-20,Recovered,Joseph Paul,400,11415.59
+372,Destiny Castillo,34,Male,Cardiology,Hypertension,Routine,2025-07-12,2025-07-21,Recovered,Jose Thomas,464,52599.65
+373,Renee Rodgers,54,Female,Emergency,COVID-19,Emergency,2025-04-16,2025-04-27,Recovered,Stephen Hines,415,19504.64
+374,Joshua Rodriguez,11,Female,Cardiology,Migraine,Emergency,2025-06-24,2025-07-03,Recovered,Holly Chan,400,65257.95
+375,Gary Perry,84,Male,Orthopedics,COVID-19,Referral,2024-07-23,2024-08-06,Recovered,Stacy Lewis,225,13190.22
+376,Leonard Reed,56,Male,Pediatrics,Hypertension,Routine,2024-04-03,2024-04-14,Under Treatment,Abigail Gallegos,479,21686.36
+377,Alicia Miller,2,Male,Emergency,Hypertension,Emergency,2023-10-23,2023-10-31,Referred,Bobby Hebert,367,54136.17
+378,Jillian Wood,34,Male,Orthopedics,Fracture,Referral,2023-10-09,2023-10-22,Under Treatment,Alison Goodman,475,89209.4
+379,Seth Mcclain,4,Female,Pediatrics,Cancer,Referral,2025-02-09,2025-02-11,Recovered,Jody Sanchez,599,59781.91
+380,Karen Landry,10,Female,Pediatrics,Asthma,Emergency,2023-07-25,2023-08-02,Under Treatment,Sara Smith,185,39930.34
+381,Amber Ford,33,Male,Oncology,Diabetes,Emergency,2024-01-21,2024-02-02,Recovered,Ronald Williams,122,86575.46
+382,Cristina Arnold,2,Male,Cardiology,Flu,Routine,2024-10-11,2024-10-18,Referred,Christine Campbell,191,93460.21
+383,Kimberly Harvey,5,Female,Neurology,Asthma,Emergency,2025-03-31,2025-04-07,Referred,George Frank,263,30769.51
+384,Caroline Long,10,Female,Cardiology,Hypertension,Emergency,2025-06-14,2025-06-18,Under Treatment,Janice Wilson,123,95637.54
+385,Morgan Paul,9,Female,Orthopedics,Cancer,Routine,2025-04-14,2025-04-16,Recovered,Rhonda Martinez,104,40047.34
+386,Heather Townsend,38,Female,Emergency,Migraine,Routine,2025-02-16,2025-02-22,Recovered,Ashley Cobb,352,99789.78
+387,Scott Rogers,26,Male,Neurology,Hypertension,Routine,2025-03-01,2025-03-02,Recovered,Carol Mckee,277,65414.47
+388,Joseph Russell,89,Male,Orthopedics,Hypertension,Referral,2024-01-01,2024-01-08,Under Treatment,Kelly Morris,472,34213.51
+389,Steven Hill,27,Male,Pediatrics,Flu,Emergency,2024-02-10,2024-02-13,Under Treatment,Debra Osborne,147,9170.53
+390,Carol Spencer,30,Female,Emergency,Asthma,Routine,2024-02-14,2024-02-26,Recovered,Dean Espinoza,148,53015.64
+391,Robert Scott,82,Female,Cardiology,Hypertension,Routine,2023-10-18,2023-10-29,Referred,Louis Reeves,221,32709.22
+392,Angela Day,41,Female,Emergency,Asthma,Routine,2025-01-07,2025-01-15,Recovered,Aaron Kelly,138,94637.7
+393,Patricia Jones,18,Male,Neurology,Diabetes,Emergency,2024-05-24,2024-06-01,Recovered,Derek Pierce,308,16469.99
+394,Logan Hendricks,46,Male,Pediatrics,Cancer,Routine,2023-12-04,2023-12-09,Under Treatment,Christina Garcia,146,19973.46
+395,Nathan Gamble,88,Female,Emergency,Hypertension,Emergency,2023-11-12,2023-11-26,Under Treatment,Scott Flores,175,13665.23
+396,Jordan Patel,32,Female,Pediatrics,Hypertension,Referral,2024-01-16,2024-01-21,Recovered,Steven Rangel,189,7952.8
+397,Susan Luna,52,Female,Oncology,Migraine,Emergency,2025-06-18,2025-06-26,Recovered,James Parker,506,18280.34
+398,Brandon Rosales,2,Male,Neurology,Fracture,Emergency,2024-03-16,2024-03-30,Recovered,Nathan Marquez,451,64878.27
+399,Emma Strickland,83,Male,Oncology,Cancer,Emergency,2024-01-30,2024-01-31,Referred,Jordan Lewis,201,90737.13
+400,Jennifer Collins,57,Male,Cardiology,Asthma,Emergency,2025-04-06,2025-04-07,Referred,Alicia Murphy,125,20958.97
+401,Anthony Blackburn,74,Female,Emergency,COVID-19,Routine,2024-12-23,2024-12-24,Recovered,Richard Lee,318,21416.69
+402,Cody Hoffman,28,Male,Orthopedics,Cancer,Routine,2023-12-02,2023-12-17,Recovered,Michael Williams,414,63821.77
+403,Heidi Bean,32,Female,Pediatrics,COVID-19,Referral,2024-01-07,2024-01-15,Recovered,Timothy Ball,243,41386.45
+404,Daniel Small,54,Male,Emergency,Migraine,Referral,2024-05-10,2024-05-23,Recovered,Mrs. Caitlin Wilson,109,98993.34
+405,Andrew Williams,46,Female,Oncology,Flu,Routine,2024-09-22,2024-10-07,Recovered,Jeremy Mendoza,264,41896.22
+406,Cynthia Hooper,24,Male,Orthopedics,Migraine,Emergency,2024-10-09,2024-10-24,Under Treatment,Joe Hines,243,10566.17
+407,Jennifer Carter,61,Female,Oncology,Migraine,Emergency,2025-02-28,2025-03-02,Recovered,Mary Noble,223,30320.07
+408,Joseph Trujillo,8,Male,Oncology,COVID-19,Routine,2023-09-28,2023-10-13,Under Treatment,Dr. Shannon Sanchez,532,21502.64
+409,Mark Frazier,31,Female,Emergency,Asthma,Referral,2025-06-27,2025-06-28,Under Treatment,Dennis Parrish,280,95018.08
+410,Zachary Adams,73,Male,Oncology,Migraine,Routine,2024-02-22,2024-03-02,Recovered,Aaron Valencia,351,8606.56
+411,Jennifer Vaughn,8,Male,Oncology,Migraine,Emergency,2023-10-03,2023-10-12,Recovered,Leslie Johnson,269,92200.14
+412,Justin Taylor,26,Male,Orthopedics,Fracture,Routine,2025-06-17,2025-06-18,Recovered,Benjamin Morales,400,71946.15
+413,Maria Tate,19,Male,Oncology,Asthma,Emergency,2025-06-25,2025-07-01,Under Treatment,Erika Morrow,439,42581.58
+414,Joe Reed,13,Female,Orthopedics,Asthma,Emergency,2024-11-10,2024-11-13,Under Treatment,Anne Santos,323,80225.04
+415,Julia Vaughn,63,Female,Neurology,Asthma,Emergency,2024-10-12,2024-10-23,Recovered,Barbara Austin,189,40946.49
+416,Chad Brown,89,Female,Neurology,Fracture,Referral,2025-04-23,2025-04-24,Referred,Rick Brown,585,59419.31
+417,Judy Jones,73,Male,Neurology,Asthma,Referral,2024-03-11,2024-03-15,Deceased,Michael Andrews,153,93985.34
+418,Kendra Herman,19,Female,Emergency,Diabetes,Emergency,2025-06-19,2025-06-25,Referred,Cody Simmons,185,65437.74
+419,Matthew Hernandez,12,Female,Pediatrics,Hypertension,Routine,2025-02-10,2025-02-14,Recovered,Kristen Mann,134,38295.71
+420,Joseph James,14,Male,Cardiology,COVID-19,Routine,2025-03-29,2025-04-10,Recovered,Stephanie Hawkins,185,89032.44
+421,Sylvia Parker,64,Female,Orthopedics,COVID-19,Emergency,2024-04-21,2024-05-05,Recovered,Veronica Kirk,542,59915.27
+422,Mr. Gregory Garcia,88,Male,Neurology,Flu,Emergency,2023-10-30,2023-11-12,Under Treatment,Catherine Cox,250,6907.41
+423,Ann Mccarthy,34,Male,Cardiology,Asthma,Emergency,2024-05-02,2024-05-17,Recovered,Samuel Olson,474,12125.23
+424,Jennifer Cortez,12,Female,Oncology,Flu,Referral,2023-07-28,2023-07-29,Recovered,Vanessa Barton,434,20674.73
+425,Elizabeth Spencer,56,Male,Cardiology,Diabetes,Routine,2024-08-27,2024-08-31,Referred,Nicholas Ruiz,309,71233.69
+426,Maria Mitchell,70,Female,Emergency,Cancer,Routine,2025-01-30,2025-02-03,Recovered,Natalie Rodriguez,301,59318.13
+427,Donald Phillips,63,Male,Cardiology,Asthma,Emergency,2024-10-02,2024-10-09,Recovered,Henry Booth,521,67891.92
+428,Jeffrey Rivers,77,Female,Neurology,Diabetes,Emergency,2025-03-16,2025-03-20,Recovered,Brian Avila,249,97820.48
+429,Michael Murphy,61,Male,Orthopedics,COVID-19,Routine,2024-06-20,2024-06-28,Under Treatment,Nicholas Hartman,235,13658.0
+430,Patricia Moreno,70,Female,Neurology,Asthma,Routine,2025-04-19,2025-04-25,Recovered,Gabriella Lee,122,30013.12
+431,Neil Ayers,60,Female,Neurology,Cancer,Referral,2024-06-12,2024-06-13,Recovered,Alec Carrillo,456,68409.5
+432,Stephanie West,11,Female,Oncology,COVID-19,Referral,2025-05-31,2025-06-04,Recovered,Sylvia Diaz,530,41775.08
+433,Jeffrey Bowen,67,Female,Oncology,Flu,Referral,2025-05-22,2025-06-06,Recovered,Heather Conley,253,12500.73
+434,Sabrina Alexander,5,Male,Cardiology,Flu,Emergency,2025-06-08,2025-06-11,Referred,Gina Mayo,513,23308.98
+435,Sara Jones,6,Female,Cardiology,COVID-19,Emergency,2024-10-24,2024-11-07,Deceased,Jeffery Lucas,527,61529.53
+436,Brittany Levy,41,Male,Cardiology,COVID-19,Referral,2025-05-05,2025-05-12,Recovered,William Hill,538,31239.08
+437,Emily Elliott,59,Male,Emergency,COVID-19,Emergency,2024-01-01,2024-01-08,Recovered,Jennifer Berger,390,60853.74
+438,Dana Delgado,13,Male,Oncology,Diabetes,Routine,2024-09-20,2024-10-04,Recovered,Joseph Lee,276,88399.89
+439,Nicholas Myers,34,Female,Emergency,Flu,Referral,2025-05-29,2025-06-08,Recovered,Shelby Payne,188,31164.34
+440,Rebecca Vasquez,19,Female,Cardiology,COVID-19,Routine,2025-03-06,2025-03-18,Recovered,Randall Douglas,481,50145.73
+441,Stacey Jones,35,Female,Cardiology,Asthma,Routine,2025-04-29,2025-05-04,Recovered,Robin Aguilar,351,86532.3
+442,Michael Arellano,88,Male,Neurology,Fracture,Routine,2024-06-29,2024-07-11,Recovered,Michael Jenkins,522,35482.49
+443,Dean Grant,54,Male,Neurology,Flu,Emergency,2023-09-02,2023-09-17,Under Treatment,Krista Smith,479,51023.73
+444,James Harris,67,Female,Cardiology,Fracture,Emergency,2024-11-13,2024-11-18,Under Treatment,Rebecca Morales,306,17886.73
+445,Samuel Moran,68,Male,Neurology,Migraine,Emergency,2025-03-15,2025-03-29,Recovered,Holly Shields,116,48362.62
+446,Gregory Turner,47,Male,Orthopedics,Asthma,Routine,2024-09-18,2024-09-27,Recovered,Rebecca Ortiz,572,16767.92
+447,Juan Rogers,4,Male,Orthopedics,Flu,Referral,2023-09-08,2023-09-16,Recovered,Brian Henderson,545,50085.32
+448,Elizabeth Randolph,71,Female,Orthopedics,Fracture,Routine,2023-11-29,2023-12-11,Under Treatment,Deanna Garcia,146,32081.59
+449,Paul Wilson,50,Male,Neurology,Migraine,Emergency,2025-05-04,2025-05-15,Recovered,Sheila Martinez,205,30562.94
+450,Kevin Fox,53,Male,Emergency,Hypertension,Routine,2023-08-12,2023-08-27,Recovered,Jennifer Allen,188,62108.49
+451,Karen Curry,2,Male,Orthopedics,Cancer,Referral,2024-08-13,2024-08-25,Deceased,Casey Cisneros,316,90070.88
+452,Miguel Garza,45,Female,Orthopedics,Migraine,Routine,2025-01-15,2025-01-20,Under Treatment,Lisa Porter,522,64242.58
+453,Ronnie Guzman,75,Male,Cardiology,Asthma,Referral,2024-06-23,2024-07-04,Recovered,Justin Foster,244,33355.21
+454,Andre Hoffman,14,Female,Cardiology,Asthma,Routine,2023-09-10,2023-09-21,Recovered,Melissa Chapman,241,29808.96
+455,Allen Moore,84,Female,Neurology,Fracture,Referral,2024-03-13,2024-03-26,Recovered,Audrey Ramirez,129,81515.83
+456,Sara Rodriguez,77,Female,Emergency,Asthma,Referral,2025-06-30,2025-07-03,Under Treatment,Anna Martinez,435,52250.42
+457,Angie Cunningham,38,Female,Pediatrics,COVID-19,Routine,2023-12-20,2024-01-01,Recovered,Allison Rubio,462,99501.6
+458,Timothy Jacobs,25,Female,Emergency,Migraine,Referral,2025-01-24,2025-02-02,Deceased,Tyler Nguyen,343,91120.02
+459,Ronald Lee,86,Female,Oncology,Cancer,Emergency,2025-01-27,2025-02-10,Under Treatment,Cheryl Short,385,22207.91
+460,Michael Townsend,13,Female,Neurology,Cancer,Referral,2023-07-28,2023-08-10,Recovered,Charles Vargas,567,22391.49
+461,Christina Colon,88,Female,Emergency,Diabetes,Emergency,2023-12-12,2023-12-18,Recovered,Michaela Davis,546,34173.1
+462,Mary Petersen,43,Female,Orthopedics,Cancer,Routine,2025-07-10,2025-07-24,Recovered,Catherine Thompson,127,87307.37
+463,Michael Gray,75,Male,Pediatrics,Migraine,Referral,2024-08-30,2024-09-01,Under Treatment,Collin Brooks,295,55334.66
+464,Deborah Foster,53,Male,Neurology,Fracture,Emergency,2023-08-31,2023-09-06,Recovered,Nicholas Ryan,391,89820.29
+465,Katherine Warren,59,Male,Orthopedics,Fracture,Emergency,2025-04-26,2025-05-04,Recovered,Albert Norris,190,34774.34
+466,Nicholas Cruz,8,Male,Pediatrics,Cancer,Emergency,2024-01-04,2024-01-17,Under Treatment,Crystal Day,395,77625.95
+467,Ronald Jensen,63,Male,Neurology,COVID-19,Referral,2023-12-26,2024-01-02,Recovered,Justin Mercado,594,50353.03
+468,Joshua Soto,1,Male,Oncology,Migraine,Referral,2023-07-20,2023-07-26,Referred,Stephen Smith,556,35610.25
+469,Ryan Thompson,68,Male,Cardiology,Hypertension,Referral,2024-06-29,2024-07-11,Recovered,Michael Huff,455,88313.59
+470,Nancy Kim DDS,40,Male,Cardiology,COVID-19,Referral,2025-06-20,2025-06-30,Recovered,James Hutchinson,133,83265.16
+471,Cynthia Anderson,39,Female,Pediatrics,Asthma,Routine,2024-03-20,2024-04-04,Under Treatment,Samuel Campbell Jr.,168,37559.62
+472,Ryan Thompson,63,Female,Neurology,Fracture,Routine,2023-12-05,2023-12-06,Recovered,Joseph Flynn,472,98563.55
+473,Daniel Goodwin,28,Male,Oncology,Fracture,Emergency,2024-03-12,2024-03-18,Under Treatment,Cynthia Parker,505,8549.53
+474,Keith Kidd,82,Female,Oncology,Hypertension,Referral,2025-06-24,2025-06-25,Under Treatment,Lisa Becker,434,84431.4
+475,Johnny Bradley,7,Male,Pediatrics,Flu,Routine,2023-09-02,2023-09-04,Recovered,Jeremy Bolton,342,71677.48
+476,Dustin Weber,27,Male,Orthopedics,COVID-19,Referral,2024-06-15,2024-06-17,Under Treatment,Melissa Thomas,238,64165.79
+477,Jesus Edwards,90,Male,Pediatrics,Diabetes,Referral,2025-01-19,2025-01-31,Deceased,Christopher Perez,244,15831.19
+478,Laura Alvarado,14,Female,Neurology,Migraine,Routine,2025-06-21,2025-07-05,Recovered,Alexis Banks,203,39002.57
+479,Paul Wagner,53,Female,Neurology,Hypertension,Referral,2024-08-13,2024-08-21,Referred,Alexandra Smith,452,93646.81
+480,Amanda Smith,43,Male,Cardiology,Hypertension,Referral,2024-04-10,2024-04-12,Referred,Bradley Vargas,527,59544.51
+481,Jonathan Marquez,64,Male,Cardiology,Diabetes,Referral,2023-10-04,2023-10-16,Recovered,Casey Walker,231,66212.0
+482,Miss Jessica Paul,59,Female,Orthopedics,Flu,Emergency,2023-12-17,2023-12-19,Under Treatment,Frank Avery,547,8747.23
+483,Scott Jones,38,Female,Emergency,Asthma,Routine,2024-09-25,2024-10-07,Recovered,Erin Coffey,535,77029.38
+484,Michael Schmitt,6,Male,Neurology,Fracture,Routine,2023-11-23,2023-11-29,Under Treatment,Martha Watson,589,64071.67
+485,Jamie Ruiz,12,Female,Orthopedics,Fracture,Emergency,2025-05-07,2025-05-14,Recovered,Joshua Buchanan,333,30824.14
+486,Juan Bradley,50,Female,Pediatrics,Fracture,Emergency,2025-05-17,2025-05-20,Under Treatment,Amanda Beasley,130,98249.07
+487,Jose Bailey,21,Male,Pediatrics,Flu,Referral,2024-08-16,2024-08-27,Recovered,Thomas King,412,41076.32
+488,Jerry Duke,46,Male,Emergency,Fracture,Routine,2024-02-15,2024-03-01,Recovered,Sarah Murray,554,44072.01
+489,Monica Harris,6,Male,Orthopedics,Asthma,Emergency,2025-03-03,2025-03-15,Under Treatment,Pamela Rush,368,77915.23
+490,James Ponce,74,Male,Emergency,Asthma,Referral,2025-05-11,2025-05-20,Under Treatment,Melanie Reed,416,14048.0
+491,Cindy Smith,85,Male,Pediatrics,Asthma,Referral,2025-02-17,2025-02-28,Deceased,Thomas Hall,176,84708.14
+492,Steven Davis,72,Male,Cardiology,Fracture,Referral,2024-12-29,2025-01-12,Recovered,Betty Gray,353,87594.49
+493,Erica Mccoy,10,Female,Orthopedics,Migraine,Routine,2024-10-22,2024-10-27,Recovered,Nancy Martinez,214,57297.08
+494,David Jackson,49,Female,Neurology,Diabetes,Routine,2024-04-04,2024-04-12,Under Treatment,Peter Jennings,329,13361.89
+495,Jamie Brooks,64,Female,Orthopedics,Diabetes,Routine,2024-03-08,2024-03-20,Under Treatment,Ryan Haas,152,43326.77
+496,Mark Richardson,5,Male,Cardiology,Cancer,Referral,2024-10-28,2024-11-06,Recovered,Robert Acevedo,443,48339.75
+497,Christopher Terry,44,Female,Cardiology,Migraine,Routine,2024-03-22,2024-03-28,Recovered,Jasmine Gallagher,417,61995.36
+498,Adam Diaz,85,Female,Emergency,Flu,Emergency,2024-10-27,2024-10-29,Under Treatment,Michael Hood,213,5208.71
+499,Madison Moreno,46,Female,Oncology,Asthma,Referral,2025-06-01,2025-06-03,Recovered,Courtney Larson,184,51780.1
+500,Jeremy Hughes,53,Male,Orthopedics,Migraine,Emergency,2024-07-08,2024-07-10,Referred,Jamie Thomas,301,25481.0
